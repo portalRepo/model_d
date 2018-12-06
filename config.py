@@ -1,7 +1,7 @@
 
 folder_path = {
     "train_dataset" : "dataset/Total_Train_dataset/",
-    "test_dataset" : "dataset\Total_Test_dataset/",
+    "test_dataset" : "dataset/Total_Test_dataset/",
     "inference_image" : "model_d\images/"
 }
 
@@ -14,7 +14,7 @@ hyperparameter_train = {
     "training_iters" : 10,
     "learning_rate" : 0.001,
     "batch_size" : 1,
-    "no_epochs" : 10,
+    "no_epochs" : 100,
     "n_classes" : 3
 }
 
