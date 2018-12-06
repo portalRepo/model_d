@@ -72,7 +72,7 @@ with tf.Session() as sess:
     print("Started Training...")
 
     for epoch in range(no_epochs):
-        for j in range(50):
+        for j in range(5):
         #for j in range(2):
             train_x1_rcc = array_images[j]
             x1, x2 = train_x1_rcc
