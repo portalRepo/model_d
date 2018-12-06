@@ -1,0 +1,342 @@
+Loading train data... 
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00456_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00624_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_01094_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02270_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02316_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02318_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02348_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02368_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02405_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02409_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02489_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02522_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02563_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00008_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00030_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00048_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00048_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00098_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00112_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00418_RIGHT_CC.png')
+WARNING:tensorflow:From model_d/train.py:38: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+2018-12-06 11:22:02.454715: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2018-12-06 11:22:03.202424: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:964] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2018-12-06 11:22:03.202738: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1432] Found device 0 with properties: 
+name: Tesla M60 major: 5 minor: 2 memoryClockRate(GHz): 1.1775
+pciBusID: 0000:00:1e.0
+totalMemory: 7.44GiB freeMemory: 7.36GiB
+2018-12-06 11:22:03.202765: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2018-12-06 11:22:03.536401: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-12-06 11:22:03.536454: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0 
+2018-12-06 11:22:03.536464: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N 
+2018-12-06 11:22:03.536669: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 7095 MB memory) -> physical GPU (device: 0, name: Tesla M60, pci bus id: 0000:00:1e.0, compute capability: 5.2)
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00425_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00432_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00452_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00476_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00480_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00505_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00506_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00510_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00529_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00538_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00555_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00557_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00613_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00635_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00635_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00674_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00680_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00744_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+Loading test data... 
+Size of Dataset: 
+('Training Set : ', 44)
+('Validation Set : ', 13)
+('Test Set : ', 13)
+Tensor("fully_connected_1/Softmax:0", shape=(1, 3), dtype=float32)
+Tensor("fully_connected_3/Softmax:0", shape=(1, 3), dtype=float32)
+Started Training...
+('Epoch ', 0, ' Training Accuracy: ', 0.0, ' Training Loss: ', 1.1221659, ' Validation Accuracy: ', 0.0, ' Validation Loss: ', 1.1207432)
+(' Test Accuracy: ', 1.0, ' Test Loss: ', 1.0703598)
+('Epoch ', 1, ' Training Accuracy: ', 0.0, ' Training Loss: ', 1.1190456, ' Validation Accuracy: ', 0.0, ' Validation Loss: ', 1.1168534)
+(' Test Accuracy: ', 1.0, ' Test Loss: ', 1.0724638)
+('Epoch ', 2, ' Training Accuracy: ', 0.0, ' Training Loss: ', 1.1151596, ' Validation Accuracy: ', 0.0, ' Validation Loss: ', 1.1123325)
+(' Test Accuracy: ', 1.0, ' Test Loss: ', 1.074894)
+('Epoch ', 3, ' Training Accuracy: ', 0.0, ' Training Loss: ', 1.1107523, ' Validation Accuracy: ', 0.0, ' Validation Loss: ', 1.1074177)
+(' Test Accuracy: ', 1.0, ' Test Loss: ', 1.0775683)
+('Epoch ', 4, ' Training Accuracy: ', 0.16, ' Training Loss: ', 1.1059436, ' Validation Accuracy: ', 0.2, ' Validation Loss: ', 1.1021196)
+(' Test Accuracy: ', 0.8, ' Test Loss: ', 1.0803796)
+('Epoch ', 5, ' Training Accuracy: ', 0.3, ' Training Loss: ', 1.1007615, ' Validation Accuracy: ', 0.33333334, ' Validation Loss: ', 1.0964301)
+(' Test Accuracy: ', 0.6666667, ' Test Loss: ', 1.0832381)
+('Epoch ', 6, ' Training Accuracy: ', 0.4, ' Training Loss: ', 1.0952184, ' Validation Accuracy: ', 0.42857143, ' Validation Loss: ', 1.090372)
+(' Test Accuracy: ', 0.5714286, ' Test Loss: ', 1.0861238)
+('Epoch ', 7, ' Training Accuracy: ', 0.475, ' Training Loss: ', 1.0893888, ' Validation Accuracy: ', 0.5, ' Validation Loss: ', 1.0840482)
+(' Test Accuracy: ', 0.5, ' Test Loss: ', 1.0890398)
+('Epoch ', 8, ' Training Accuracy: ', 0.53333336, ' Training Loss: ', 1.0833694, ' Validation Accuracy: ', 0.5555556, ' Validation Loss: ', 1.0775479)
+(' Test Accuracy: ', 0.44444445, ' Test Loss: ', 1.091991)
+('Epoch ', 9, ' Training Accuracy: ', 0.58, ' Training Loss: ', 1.0771594, ' Validation Accuracy: ', 0.6, ' Validation Loss: ', 1.0708596)
+(' Test Accuracy: ', 0.4, ' Test Loss: ', 1.0950142)
+('Epoch ', 10, ' Training Accuracy: ', 0.6181818, ' Training Loss: ', 1.0707519, ' Validation Accuracy: ', 0.6363636, ' Validation Loss: ', 1.0639979)
+(' Test Accuracy: ', 0.36363637, ' Test Loss: ', 1.0981318)
+('Epoch ', 11, ' Training Accuracy: ', 0.65, ' Training Loss: ', 1.064179, ' Validation Accuracy: ', 0.6666667, ' Validation Loss: ', 1.057012)
+(' Test Accuracy: ', 0.33333334, ' Test Loss: ', 1.1013587)
+('Epoch ', 12, ' Training Accuracy: ', 0.6769231, ' Training Loss: ', 1.0574646, ' Validation Accuracy: ', 0.6923077, ' Validation Loss: ', 1.0498765)
+(' Test Accuracy: ', 0.30769232, ' Test Loss: ', 1.1047204)
+('Epoch ', 13, ' Training Accuracy: ', 0.7, ' Training Loss: ', 1.0505414, ' Validation Accuracy: ', 0.71428573, ' Validation Loss: ', 1.0425128)
+(' Test Accuracy: ', 0.2857143, ' Test Loss: ', 1.1082631)
+('Epoch ', 14, ' Training Accuracy: ', 0.72, ' Training Loss: ', 1.0433569, ' Validation Accuracy: ', 0.73333335, ' Validation Loss: ', 1.0348567)
+(' Test Accuracy: ', 0.26666668, ' Test Loss: ', 1.1120311)
+('Epoch ', 15, ' Training Accuracy: ', 0.7375, ' Training Loss: ', 1.035849, ' Validation Accuracy: ', 0.75, ' Validation Loss: ', 1.0268484)
+(' Test Accuracy: ', 0.25, ' Test Loss: ', 1.116071)
+('Epoch ', 16, ' Training Accuracy: ', 0.7529412, ' Training Loss: ', 1.0279598, ' Validation Accuracy: ', 0.7647059, ' Validation Loss: ', 1.0184395)
+(' Test Accuracy: ', 0.23529412, ' Test Loss: ', 1.1204276)
+('Epoch ', 17, ' Training Accuracy: ', 0.76666665, ' Training Loss: ', 1.0196266, ' Validation Accuracy: ', 0.7777778, ' Validation Loss: ', 1.0095668)
+(' Test Accuracy: ', 0.22222222, ' Test Loss: ', 1.1251496)
+('Epoch ', 18, ' Training Accuracy: ', 0.77894735, ' Training Loss: ', 1.0107821, ' Validation Accuracy: ', 0.7894737, ' Validation Loss: ', 1.000173)
+(' Test Accuracy: ', 0.21052632, ' Test Loss: ', 1.1302888)
+('Epoch ', 19, ' Training Accuracy: ', 0.79, ' Training Loss: ', 1.0013753, ' Validation Accuracy: ', 0.8, ' Validation Loss: ', 0.99022734)
+(' Test Accuracy: ', 0.2, ' Test Loss: ', 1.1359096)
+('Epoch ', 20, ' Training Accuracy: ', 0.8, ' Training Loss: ', 0.99138474, ' Validation Accuracy: ', 0.8095238, ' Validation Loss: ', 0.9797281)
+(' Test Accuracy: ', 0.1904762, ' Test Loss: ', 1.1420794)
+('Epoch ', 21, ' Training Accuracy: ', 0.8090909, ' Training Loss: ', 0.98082453, ' Validation Accuracy: ', 0.8181818, ' Validation Loss: ', 0.9687181)
+(' Test Accuracy: ', 0.18181819, ' Test Loss: ', 1.1488497)
+('Epoch ', 22, ' Training Accuracy: ', 0.8173913, ' Training Loss: ', 0.9697532, ' Validation Accuracy: ', 0.82608694, ' Validation Loss: ', 0.9572806)
+(' Test Accuracy: ', 0.17391305, ' Test Loss: ', 1.1562445)
+('Epoch ', 23, ' Training Accuracy: ', 0.825, ' Training Loss: ', 0.9582626, ' Validation Accuracy: ', 0.8333333, ' Validation Loss: ', 0.94553113)
+(' Test Accuracy: ', 0.16666667, ' Test Loss: ', 1.1642547)
+('Epoch ', 24, ' Training Accuracy: ', 0.832, ' Training Loss: ', 0.946484, ' Validation Accuracy: ', 0.84, ' Validation Loss: ', 0.9336159)
+(' Test Accuracy: ', 0.16, ' Test Loss: ', 1.1728371)
+('Epoch ', 25, ' Training Accuracy: ', 0.8384615, ' Training Loss: ', 0.93457323, ' Validation Accuracy: ', 0.84615386, ' Validation Loss: ', 0.9216954)
+(' Test Accuracy: ', 0.15384616, ' Test Loss: ', 1.1819068)
+('Epoch ', 26, ' Training Accuracy: ', 0.84444445, ' Training Loss: ', 0.92269874, ' Validation Accuracy: ', 0.8518519, ' Validation Loss: ', 0.9099259)
+(' Test Accuracy: ', 0.14814815, ' Test Loss: ', 1.1913422)
+('Epoch ', 27, ' Training Accuracy: ', 0.85, ' Training Loss: ', 0.9110206, ' Validation Accuracy: ', 0.85714287, ' Validation Loss: ', 0.89844567)
+(' Test Accuracy: ', 0.14285715, ' Test Loss: ', 1.2009978)
+('Epoch ', 28, ' Training Accuracy: ', 0.8551724, ' Training Loss: ', 0.8996723, ' Validation Accuracy: ', 0.86206895, ' Validation Loss: ', 0.88736033)
+(' Test Accuracy: ', 0.13793103, ' Test Loss: ', 1.2107213)
+('Epoch ', 29, ' Training Accuracy: ', 0.86, ' Training Loss: ', 0.88874626, ' Validation Accuracy: ', 0.8666667, ' Validation Loss: ', 0.8767371)
+(' Test Accuracy: ', 0.13333334, ' Test Loss: ', 1.2203764)
+('Epoch ', 30, ' Training Accuracy: ', 0.86451614, ' Training Loss: ', 0.87829787, ' Validation Accuracy: ', 0.87096775, ' Validation Loss: ', 0.8666114)
+(' Test Accuracy: ', 0.12903225, ' Test Loss: ', 1.2298524)
+('Epoch ', 31, ' Training Accuracy: ', 0.86875, ' Training Loss: ', 0.86835307, ' Validation Accuracy: ', 0.875, ' Validation Loss: ', 0.8569948)
+(' Test Accuracy: ', 0.125, ' Test Loss: ', 1.2390645)
+('Epoch ', 32, ' Training Accuracy: ', 0.8727273, ' Training Loss: ', 0.8589154, ' Validation Accuracy: ', 0.8787879, ' Validation Loss: ', 0.847881)
+(' Test Accuracy: ', 0.121212125, ' Test Loss: ', 1.2479545)
+('Epoch ', 33, ' Training Accuracy: ', 0.87647057, ' Training Loss: ', 0.8499729, ' Validation Accuracy: ', 0.88235295, ' Validation Loss: ', 0.8392527)
+(' Test Accuracy: ', 0.11764706, ' Test Loss: ', 1.2564882)
+('Epoch ', 34, ' Training Accuracy: ', 0.88, ' Training Loss: ', 0.8415043, ' Validation Accuracy: ', 0.8857143, ' Validation Loss: ', 0.8310855)
+(' Test Accuracy: ', 0.114285715, ' Test Loss: ', 1.2646506)
+('Epoch ', 35, ' Training Accuracy: ', 0.8833333, ' Training Loss: ', 0.83348346, ' Validation Accuracy: ', 0.8888889, ' Validation Loss: ', 0.8233523)
+(' Test Accuracy: ', 0.11111111, ' Test Loss: ', 1.272439)
+('Epoch ', 36, ' Training Accuracy: ', 0.8864865, ' Training Loss: ', 0.82588255, ' Validation Accuracy: ', 0.8918919, ' Validation Loss: ', 0.81602466)
+(' Test Accuracy: ', 0.10810811, ' Test Loss: ', 1.2798605)
+('Epoch ', 37, ' Training Accuracy: ', 0.8894737, ' Training Loss: ', 0.8186734, ' Validation Accuracy: ', 0.8947368, ' Validation Loss: ', 0.80907506)
+(' Test Accuracy: ', 0.10526316, ' Test Loss: ', 1.2869277)
+('Epoch ', 38, ' Training Accuracy: ', 0.8923077, ' Training Loss: ', 0.81182927, ' Validation Accuracy: ', 0.8974359, ' Validation Loss: ', 0.80247724)
+(' Test Accuracy: ', 0.102564104, ' Test Loss: ', 1.2936568)
+('Epoch ', 39, ' Training Accuracy: ', 0.895, ' Training Loss: ', 0.80532426, ' Validation Accuracy: ', 0.9, ' Validation Loss: ', 0.7962064)
+(' Test Accuracy: ', 0.1, ' Test Loss: ', 1.3000658)
+('Epoch ', 40, ' Training Accuracy: ', 0.89756095, ' Training Loss: ', 0.79913485, ' Validation Accuracy: ', 0.902439, ' Validation Loss: ', 0.7902398)
+(' Test Accuracy: ', 0.09756097, ' Test Loss: ', 1.306173)
+('Epoch ', 41, ' Training Accuracy: ', 0.9, ' Training Loss: ', 0.7932392, ' Validation Accuracy: ', 0.9047619, ' Validation Loss: ', 0.7845562)
+(' Test Accuracy: ', 0.0952381, ' Test Loss: ', 1.3119965)
+('Epoch ', 42, ' Training Accuracy: ', 0.9023256, ' Training Loss: ', 0.787617, ' Validation Accuracy: ', 0.90697676, ' Validation Loss: ', 0.7791362)
+(' Test Accuracy: ', 0.093023255, ' Test Loss: ', 1.3175541)
+('Epoch ', 43, ' Training Accuracy: ', 0.9045454, ' Training Loss: ', 0.78225017, ' Validation Accuracy: ', 0.90909094, ' Validation Loss: ', 0.7739622)
+(' Test Accuracy: ', 0.09090909, ' Test Loss: ', 1.3228624)
+('Epoch ', 44, ' Training Accuracy: ', 0.9066667, ' Training Loss: ', 0.7771214, ' Validation Accuracy: ', 0.9111111, ' Validation Loss: ', 0.7690179)
+(' Test Accuracy: ', 0.08888889, ' Test Loss: ', 1.327937)
+('Epoch ', 45, ' Training Accuracy: ', 0.90869564, ' Training Loss: ', 0.77221566, ' Validation Accuracy: ', 0.9130435, ' Validation Loss: ', 0.7642883)
+(' Test Accuracy: ', 0.08695652, ' Test Loss: ', 1.3327923)
+('Epoch ', 46, ' Training Accuracy: ', 0.9106383, ' Training Loss: ', 0.76751864, ' Validation Accuracy: ', 0.9148936, ' Validation Loss: ', 0.75976)
+(' Test Accuracy: ', 0.08510638, ' Test Loss: ', 1.3374422)
+('Epoch ', 47, ' Training Accuracy: ', 0.9125, ' Training Loss: ', 0.7630171, ' Validation Accuracy: ', 0.9166667, ' Validation Loss: ', 0.7554202)
+(' Test Accuracy: ', 0.083333336, ' Test Loss: ', 1.3418988)
+('Epoch ', 48, ' Training Accuracy: ', 0.9142857, ' Training Loss: ', 0.75869936, ' Validation Accuracy: ', 0.9183673, ' Validation Loss: ', 0.75125754)
+(' Test Accuracy: ', 0.08163265, ' Test Loss: ', 1.346174)
+('Epoch ', 49, ' Training Accuracy: ', 0.916, ' Training Loss: ', 0.75455433, ' Validation Accuracy: ', 0.92, ' Validation Loss: ', 0.7472613)
+(' Test Accuracy: ', 0.08, ' Test Loss: ', 1.3502787)
+('Epoch ', 50, ' Training Accuracy: ', 0.91764706, ' Training Loss: ', 0.7505718, ' Validation Accuracy: ', 0.92156863, ' Validation Loss: ', 0.74342185)
+(' Test Accuracy: ', 0.078431375, ' Test Loss: ', 1.3542225)
+('Epoch ', 51, ' Training Accuracy: ', 0.91923076, ' Training Loss: ', 0.7467425, ' Validation Accuracy: ', 0.9230769, ' Validation Loss: ', 0.73973)
+(' Test Accuracy: ', 0.07692308, ' Test Loss: ', 1.3580147)
+('Epoch ', 52, ' Training Accuracy: ', 0.92075473, ' Training Loss: ', 0.74305767, ' Validation Accuracy: ', 0.9245283, ' Validation Loss: ', 0.7361775)
+(' Test Accuracy: ', 0.0754717, ' Test Loss: ', 1.3616642)
+('Epoch ', 53, ' Training Accuracy: ', 0.9222222, ' Training Loss: ', 0.7395092, ' Validation Accuracy: ', 0.9259259, ' Validation Loss: ', 0.73275644)
+(' Test Accuracy: ', 0.074074075, ' Test Loss: ', 1.3651783)
+('Epoch ', 54, ' Training Accuracy: ', 0.9236364, ' Training Loss: ', 0.73608994, ' Validation Accuracy: ', 0.92727274, ' Validation Loss: ', 0.7294599)
+(' Test Accuracy: ', 0.07272727, ' Test Loss: ', 1.368565)
+('Epoch ', 55, ' Training Accuracy: ', 0.925, ' Training Loss: ', 0.7327927, ' Validation Accuracy: ', 0.9285714, ' Validation Loss: ', 0.72628105)
+(' Test Accuracy: ', 0.071428575, ' Test Loss: ', 1.3718306)
+('Epoch ', 56, ' Training Accuracy: ', 0.9263158, ' Training Loss: ', 0.72961116, ' Validation Accuracy: ', 0.9298246, ' Validation Loss: ', 0.7232138)
+(' Test Accuracy: ', 0.07017544, ' Test Loss: ', 1.3749815)
+('Epoch ', 57, ' Training Accuracy: ', 0.9275862, ' Training Loss: ', 0.7265393, ' Validation Accuracy: ', 0.9310345, ' Validation Loss: ', 0.7202522)
+(' Test Accuracy: ', 0.06896552, ' Test Loss: ', 1.3780239)
+('Epoch ', 58, ' Training Accuracy: ', 0.9288136, ' Training Loss: ', 0.7235716, ' Validation Accuracy: ', 0.9322034, ' Validation Loss: ', 0.71739113)
+(' Test Accuracy: ', 0.06779661, ' Test Loss: ', 1.3809631)
+('Epoch ', 59, ' Training Accuracy: ', 0.93, ' Training Loss: ', 0.7207028, ' Validation Accuracy: ', 0.93333334, ' Validation Loss: ', 0.7146253)
+(' Test Accuracy: ', 0.06666667, ' Test Loss: ', 1.3838044)
+('Epoch ', 60, ' Training Accuracy: ', 0.9311475, ' Training Loss: ', 0.71792805, ' Validation Accuracy: ', 0.93442625, ' Validation Loss: ', 0.71195024)
+(' Test Accuracy: ', 0.06557377, ' Test Loss: ', 1.3865527)
+('Epoch ', 61, ' Training Accuracy: ', 0.93225807, ' Training Loss: ', 0.71524286, ' Validation Accuracy: ', 0.9354839, ' Validation Loss: ', 0.70936143)
+(' Test Accuracy: ', 0.06451613, ' Test Loss: ', 1.3892123)
+('Epoch ', 62, ' Training Accuracy: ', 0.93333334, ' Training Loss: ', 0.7126429, ' Validation Accuracy: ', 0.93650794, ' Validation Loss: ', 0.7068548)
+(' Test Accuracy: ', 0.06349207, ' Test Loss: ', 1.3917873)
+('Epoch ', 63, ' Training Accuracy: ', 0.934375, ' Training Loss: ', 0.71012414, ' Validation Accuracy: ', 0.9375, ' Validation Loss: ', 0.7044265)
+(' Test Accuracy: ', 0.0625, ' Test Loss: ', 1.394282)
+('Epoch ', 64, ' Training Accuracy: ', 0.93538463, ' Training Loss: ', 0.7076829, ' Validation Accuracy: ', 0.93846154, ' Validation Loss: ', 0.702073)
+(' Test Accuracy: ', 0.06153846, ' Test Loss: ', 1.3966999)
+('Epoch ', 65, ' Training Accuracy: ', 0.93636364, ' Training Loss: ', 0.7053157, ' Validation Accuracy: ', 0.93939394, ' Validation Loss: ', 0.6997907)
+(' Test Accuracy: ', 0.060606062, ' Test Loss: ', 1.3990444)
+('Epoch ', 66, ' Training Accuracy: ', 0.93731344, ' Training Loss: ', 0.7030191, ' Validation Accuracy: ', 0.9402985, ' Validation Loss: ', 0.6975766)
+(' Test Accuracy: ', 0.05970149, ' Test Loss: ', 1.401319)
+('Epoch ', 67, ' Training Accuracy: ', 0.9382353, ' Training Loss: ', 0.7007901, ' Validation Accuracy: ', 0.9411765, ' Validation Loss: ', 0.6954276)
+(' Test Accuracy: ', 0.05882353, ' Test Loss: ', 1.4035269)
+('Epoch ', 68, ' Training Accuracy: ', 0.9391304, ' Training Loss: ', 0.6986256, ' Validation Accuracy: ', 0.942029, ' Validation Loss: ', 0.6933409)
+(' Test Accuracy: ', 0.057971016, ' Test Loss: ', 1.4056705)
+('Epoch ', 69, ' Training Accuracy: ', 0.94, ' Training Loss: ', 0.6965231, ' Validation Accuracy: ', 0.94285715, ' Validation Loss: ', 0.6913138)
+(' Test Accuracy: ', 0.057142857, ' Test Loss: ', 1.407753)
+('Epoch ', 70, ' Training Accuracy: ', 0.9408451, ' Training Loss: ', 0.6944797, ' Validation Accuracy: ', 0.943662, ' Validation Loss: ', 0.6893438)
+(' Test Accuracy: ', 0.056338027, ' Test Loss: ', 1.4097769)
+('Epoch ', 71, ' Training Accuracy: ', 0.94166666, ' Training Loss: ', 0.6924931, ' Validation Accuracy: ', 0.9444444, ' Validation Loss: ', 0.6874286)
+(' Test Accuracy: ', 0.055555556, ' Test Loss: ', 1.4117445)
+('Epoch ', 72, ' Training Accuracy: ', 0.9424658, ' Training Loss: ', 0.69056094, ' Validation Accuracy: ', 0.94520545, ' Validation Loss: ', 0.68556577)
+(' Test Accuracy: ', 0.05479452, ' Test Loss: ', 1.4136581)
+('Epoch ', 73, ' Training Accuracy: ', 0.94324327, ' Training Loss: ', 0.688681, ' Validation Accuracy: ', 0.9459459, ' Validation Loss: ', 0.68375325)
+(' Test Accuracy: ', 0.054054055, ' Test Loss: ', 1.4155202)
+('Epoch ', 74, ' Training Accuracy: ', 0.944, ' Training Loss: ', 0.68685126, ' Validation Accuracy: ', 0.94666666, ' Validation Loss: ', 0.6819892)
+(' Test Accuracy: ', 0.053333335, ' Test Loss: ', 1.4173325)
+('Epoch ', 75, ' Training Accuracy: ', 0.94473684, ' Training Loss: ', 0.6850695, ' Validation Accuracy: ', 0.94736844, ' Validation Loss: ', 0.6802715)
+(' Test Accuracy: ', 0.05263158, ' Test Loss: ', 1.4190971)
+('Epoch ', 76, ' Training Accuracy: ', 0.94545454, ' Training Loss: ', 0.68333405, ' Validation Accuracy: ', 0.9480519, ' Validation Loss: ', 0.6785984)
+(' Test Accuracy: ', 0.051948052, ' Test Loss: ', 1.4208158)
+('Epoch ', 77, ' Training Accuracy: ', 0.9461538, ' Training Loss: ', 0.6816432, ' Validation Accuracy: ', 0.94871795, ' Validation Loss: ', 0.6769682)
+(' Test Accuracy: ', 0.051282052, ' Test Loss: ', 1.4224906)
+('Epoch ', 78, ' Training Accuracy: ', 0.94683546, ' Training Loss: ', 0.6799951, ' Validation Accuracy: ', 0.9493671, ' Validation Loss: ', 0.67537934)
+(' Test Accuracy: ', 0.050632913, ' Test Loss: ', 1.4241229)
+('Epoch ', 79, ' Training Accuracy: ', 0.9475, ' Training Loss: ', 0.67838824, ' Validation Accuracy: ', 0.95, ' Validation Loss: ', 0.6738301)
+(' Test Accuracy: ', 0.05, ' Test Loss: ', 1.4257145)
+('Epoch ', 80, ' Training Accuracy: ', 0.94814813, ' Training Loss: ', 0.67682105, ' Validation Accuracy: ', 0.9506173, ' Validation Loss: ', 0.6723192)
+(' Test Accuracy: ', 0.049382716, ' Test Loss: ', 1.4272666)
+('Epoch ', 81, ' Training Accuracy: ', 0.9487805, ' Training Loss: ', 0.6752921, ' Validation Accuracy: ', 0.9512195, ' Validation Loss: ', 0.6708451)
+(' Test Accuracy: ', 0.048780486, ' Test Loss: ', 1.428781)
+('Epoch ', 82, ' Training Accuracy: ', 0.94939756, ' Training Loss: ', 0.6737999, ' Validation Accuracy: ', 0.9518072, ' Validation Loss: ', 0.6694066)
+(' Test Accuracy: ', 0.04819277, ' Test Loss: ', 1.430259)
+('Epoch ', 83, ' Training Accuracy: ', 0.95, ' Training Loss: ', 0.6723433, ' Validation Accuracy: ', 0.95238096, ' Validation Loss: ', 0.6680023)
+(' Test Accuracy: ', 0.04761905, ' Test Loss: ', 1.4317017)
+('Epoch ', 84, ' Training Accuracy: ', 0.9505882, ' Training Loss: ', 0.67092097, ' Validation Accuracy: ', 0.9529412, ' Validation Loss: ', 0.666631)
+(' Test Accuracy: ', 0.047058824, ' Test Loss: ', 1.4331104)
+('Epoch ', 85, ' Training Accuracy: ', 0.9511628, ' Training Loss: ', 0.6695317, ' Validation Accuracy: ', 0.95348835, ' Validation Loss: ', 0.6652916)
+(' Test Accuracy: ', 0.046511628, ' Test Loss: ', 1.4344863)
+('Epoch ', 86, ' Training Accuracy: ', 0.9517241, ' Training Loss: ', 0.66817445, ' Validation Accuracy: ', 0.954023, ' Validation Loss: ', 0.663983)
+(' Test Accuracy: ', 0.04597701, ' Test Loss: ', 1.4358307)
+('Epoch ', 87, ' Training Accuracy: ', 0.9522727, ' Training Loss: ', 0.66684794, ' Validation Accuracy: ', 0.95454544, ' Validation Loss: ', 0.66270417)
+(' Test Accuracy: ', 0.045454547, ' Test Loss: ', 1.4371445)
+('Epoch ', 88, ' Training Accuracy: ', 0.952809, ' Training Loss: ', 0.6655512, ' Validation Accuracy: ', 0.9550562, ' Validation Loss: ', 0.661454)
+(' Test Accuracy: ', 0.04494382, ' Test Loss: ', 1.4384289)
+('Epoch ', 89, ' Training Accuracy: ', 0.9533333, ' Training Loss: ', 0.6642834, ' Validation Accuracy: ', 0.95555556, ' Validation Loss: ', 0.66023177)
+(' Test Accuracy: ', 0.044444446, ' Test Loss: ', 1.4396845)
+('Epoch ', 90, ' Training Accuracy: ', 0.95384616, ' Training Loss: ', 0.66304344, ' Validation Accuracy: ', 0.95604396, ' Validation Loss: ', 0.6590363)
+(' Test Accuracy: ', 0.043956045, ' Test Loss: ', 1.4409126)
+('Epoch ', 91, ' Training Accuracy: ', 0.95434785, ' Training Loss: ', 0.66183037, ' Validation Accuracy: ', 0.95652175, ' Validation Loss: ', 0.6578668)
+(' Test Accuracy: ', 0.04347826, ' Test Loss: ', 1.4421142)
+('Epoch ', 92, ' Training Accuracy: ', 0.9548387, ' Training Loss: ', 0.66064346, ' Validation Accuracy: ', 0.9569892, ' Validation Loss: ', 0.6567225)
+(' Test Accuracy: ', 0.043010753, ' Test Loss: ', 1.4432898)
+('Epoch ', 93, ' Training Accuracy: ', 0.95531917, ' Training Loss: ', 0.65948176, ' Validation Accuracy: ', 0.9574468, ' Validation Loss: ', 0.6556025)
+(' Test Accuracy: ', 0.04255319, ' Test Loss: ', 1.4444402)
+('Epoch ', 94, ' Training Accuracy: ', 0.95578945, ' Training Loss: ', 0.65834445, ' Validation Accuracy: ', 0.95789474, ' Validation Loss: ', 0.6545061)
+(' Test Accuracy: ', 0.042105265, ' Test Loss: ', 1.4455667)
+('Epoch ', 95, ' Training Accuracy: ', 0.95625, ' Training Loss: ', 0.657231, ' Validation Accuracy: ', 0.9583333, ' Validation Loss: ', 0.65343255)
+(' Test Accuracy: ', 0.041666668, ' Test Loss: ', 1.4466696)
+('Epoch ', 96, ' Training Accuracy: ', 0.95670104, ' Training Loss: ', 0.6561404, ' Validation Accuracy: ', 0.9587629, ' Validation Loss: ', 0.6523811)
+(' Test Accuracy: ', 0.041237112, ' Test Loss: ', 1.4477496)
+('Epoch ', 97, ' Training Accuracy: ', 0.95714283, ' Training Loss: ', 0.6550721, ' Validation Accuracy: ', 0.9591837, ' Validation Loss: ', 0.65135115)
+(' Test Accuracy: ', 0.040816326, ' Test Loss: ', 1.4488078)
+('Epoch ', 98, ' Training Accuracy: ', 0.95757574, ' Training Loss: ', 0.6540254, ' Validation Accuracy: ', 0.959596, ' Validation Loss: ', 0.65034205)
+(' Test Accuracy: ', 0.04040404, ' Test Loss: ', 1.4498445)
+('Epoch ', 99, ' Training Accuracy: ', 0.958, ' Training Loss: ', 0.6529995, ' Validation Accuracy: ', 0.96, ' Validation Loss: ', 0.649353)
+(' Test Accuracy: ', 0.04, ' Test Loss: ', 1.4508605)
