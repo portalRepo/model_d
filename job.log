@@ -1,0 +1,146 @@
+Loading train data... 
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00456_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00624_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_01094_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02270_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02316_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02318_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02348_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02368_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02405_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02409_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02489_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02522_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_02563_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00008_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00030_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00048_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00048_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00098_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00112_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00418_RIGHT_CC.png')
+WARNING:tensorflow:From model_d/train.py:38: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See `tf.nn.softmax_cross_entropy_with_logits_v2`.
+
+2018-12-06 11:04:22.841297: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2018-12-06 11:04:23.502928: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:964] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2018-12-06 11:04:23.503307: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1432] Found device 0 with properties: 
+name: Tesla M60 major: 5 minor: 2 memoryClockRate(GHz): 1.1775
+pciBusID: 0000:00:1e.0
+totalMemory: 7.44GiB freeMemory: 7.36GiB
+2018-12-06 11:04:23.503350: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2018-12-06 11:04:23.850063: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-12-06 11:04:23.850116: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0 
+2018-12-06 11:04:23.850126: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N 
+2018-12-06 11:04:23.850347: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 7096 MB memory) -> physical GPU (device: 0, name: Tesla M60, pci bus id: 0000:00:1e.0, compute capability: 5.2)
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00425_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00432_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00452_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00476_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00480_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00505_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00506_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00510_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00529_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00538_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00555_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00557_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00613_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00635_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00635_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00674_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00680_RIGHT_CC.png')
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+('Image Not Available: ', u'dataset/Total_Train_dataset/_00744_RIGHT_CC.png')
+Traceback (most recent call last):
+  File "model_d/train.py", line 79, in <module>
+    train_y = array_target_test[j]
+IndexError: list index out of range
+OpenCV(3.4.4) /io/opencv/modules/imgproc/src/resize.cpp:3784: error: (-215:Assertion failed) !ssize.empty() in function 'resize'
+
+Loading test data... 
+Size of Dataset: 
+('Training Set : ', 44)
+('Validation Set : ', 13)
+('Test Set : ', 13)
+Tensor("fully_connected_1/Softmax:0", shape=(1, 3), dtype=float32)
+Tensor("fully_connected_3/Softmax:0", shape=(1, 3), dtype=float32)
+Started Training...
