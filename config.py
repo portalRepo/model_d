@@ -14,7 +14,7 @@ hyperparameter_train = {
     "training_iters" : 10,
     "learning_rate" : 0.001,
     "batch_size" : 1,
-    "no_epochs" : 500,
+    "no_epochs" : 50000,
     "n_classes" : 3
 }
 
